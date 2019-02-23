@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "First Rush Underway"
+date:   2016-08-24 00:00:00 +1100
+image: https://i.imgur.com/wpdSeM0.jpg
+body: "BOOM. First rush event down as the backstreet boys have a good ol' sausage party in Newtown. Get pumped for pizza and board games on Thursday evening at Shalom Collegen as we RUSH AEPi."
+---
