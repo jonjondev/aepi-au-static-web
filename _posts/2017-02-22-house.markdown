@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "AEPi is In The Building"
+date:   2017-02-22 00:00:00 +1100
+image: https://i.imgur.com/BNu5jzI.jpg
+body: "We are very excited to announce that AEPi Sydney has officially taken up residence at Shalom with our very own Chapter House!
+<br /><br />
+Together with Shalom, we hope to offer a space on campus for all kinds of students to enjoy Jewish life, from Shabbat dinner to just plain schmoozing. It was great to meet all the wonderful staff from Shalom, JUNI and AUJS NSW for our housewarming event. A special thank you to Leigh Gordon for helping make it happen!"
+---
