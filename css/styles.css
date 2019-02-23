@@ -10,13 +10,11 @@ h1, h2, h3, h4, h5 {
 
 a {
     color: #ffbd59;
-    text-decoration: none;
 }
 
 a:hover {
     opacity: 0.9;
 }
-
 
 .navbar {
     background-color: #1f3849;
@@ -41,12 +39,29 @@ a:hover {
     padding-right: 15px;
     padding-left: 15px;
     font-size: 22px;
+    text-decoration: none;
 }
 
 
 
 
+.title-bar {
+    margin: 0;
+    background-color: #1f3849;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
 
+.title-bar-content {
+    width: 70%;
+}
+
+.page-heading {
+    margin: 0;
+    margin-bottom: 10px;
+}
 
 
 
@@ -58,4 +73,27 @@ a:hover {
 .content {
     padding-left: 10%;
     padding-right: 10%;
+}
+
+
+
+
+
+
+
+.social-link {
+    padding: 10px;
+    background-color: white;
+}
+
+.email-link {
+    color: #D44638;
+}
+
+.facebook-link {
+    color: #3b5998;
+}
+
+.instagram-link {
+    color: #e95950;
 }
