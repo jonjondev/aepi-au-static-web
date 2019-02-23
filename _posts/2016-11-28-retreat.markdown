@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Wattamolla Leadership Retreat"
+date:   2016-11-28 00:00:00 +1100
+image: https://i.imgur.com/LdVDY1h.jpg
+body: "Last weekend, our bros capped off their first full semester with a leadership retreat to Wattamolla. Shout out to Gideon Michel, a.k.a. 'Gid The Yid', for stepping up to head the Sausage Sizzle Committee."
+---
