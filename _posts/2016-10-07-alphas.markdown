@@ -1,0 +1,8 @@
+---
+layout: default
+title:  "Hello Alpha Class!"
+date:   2016-10-11 00:00:00 +1100
+image: https://i.imgur.com/Ufn6adl.jpg
+body: "After a month of educational and team-building activities, we're very proud to welcome our Alpha Class into the chapter: Avi Weiner, Benji Sky, Brendan Zlatkis, Jared Katz, and Josh Kirsh.
+We were privileged to have had the Executive Director of AEPI, Andy Borans, as well as alumnus Sheldon Mayer, join us for this historic initiation."
+---
