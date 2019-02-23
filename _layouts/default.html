@@ -1,21 +1,30 @@
 <head>
     <link rel="stylesheet" type="text/css" href="{{ page.relativity }}/css/styles.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 
 <div class="navbar">
-    <img class="logo" src="{{ page.relativity }}/res/logo.png">
+    <a href="{{ page.relativity }}/" class="nav-link">
+        <img class="logo" src="{{ page.relativity }}/res/logo.png">
+    </a>
     <a href="{{ page.relativity }}/" class="nav-link">Home</a>
     <a href="{{ page.relativity }}/about" class="nav-link">About Us</a>
     <a href="{{ page.relativity }}/blog" class="nav-link">Blog</a>
     <a href="{{ page.relativity }}/contact" class="nav-link">Contact Us</a>
 </div>
-
-<div class="content">
-    <div class="home">
+<div class="title-bar">
+    <div class="title-bar-content">
         {%- if page.title -%}
             <h1 class="page-heading">{{ page.title }}</h1>
+            <h2 class="page-heading">{{ page.subtitle }}</h2>
+            {%- if page.relativity == "." -%}
+                <a href="about">Learn More</a>
+            {%- endif -%}
+            <br>
         {%- endif -%}
-
-        {{ content }}
     </div>
+</div>
+
+<div class="content">
+    {{ content }}
 </div>
