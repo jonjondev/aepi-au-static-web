@@ -126,6 +126,13 @@ a:hover {
 
 
 
+.blog-card-full {
+    margin: 0 auto;
+    width: 100%;
+    border-bottom: 2px #1f3849 solid;
+    padding-bottom: 10px;
+}
+
 .blog-card {
     margin: 0 auto;
     width: 70%;
@@ -154,4 +161,24 @@ a:hover {
 
 .blog-text p {
     font-family: Times;
+}
+
+
+
+
+.home-container {
+    display: flex;
+}
+
+.home-posts {
+    flex: 0 0 70%;
+}
+
+.home-social {
+    flex: 0 0 30%;
+    padding-top: 40px;
+}
+
+.home-social iframe {
+    padding-left: 20px;
 }
