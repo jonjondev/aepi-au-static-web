@@ -1,14 +1,13 @@
 body {
-    background-color: #27475c;
+    background-color: white;
     margin: 0 auto;
-    color: white;
 }
 
-h1, h2, h3, h4, h5 {
+.gold-text h1, .gold-text h2, .gold-text h3, .gold-text h4, .gold-text h5 {
     color: #ffbd59;
 }
 
-a {
+.gold-text a {
     color: #ffbd59;
 }
 
@@ -17,7 +16,9 @@ a:hover {
 }
 
 .navbar {
-    background-color: #1f3849;
+    position: fixed;
+    width: 100%;
+    background-color: #27475c;
     color: #ffbd59;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -46,11 +47,10 @@ a:hover {
 
 
 .title-bar {
-    margin: 0;
     background-color: #1f3849;
     padding-left: 10%;
     padding-right: 10%;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom: 15px;
 }
 
@@ -61,6 +61,10 @@ a:hover {
 .page-heading {
     margin: 0;
     margin-bottom: 10px;
+}
+
+.page-heading {
+    font-size: 60px;
 }
 
 

@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 
-<div class="navbar">
+<div class="navbar gold-text">
     <a href="{{ page.relativity }}/" class="nav-link">
         <img class="logo" src="{{ page.relativity }}/res/logo.png">
     </a>
@@ -13,14 +13,13 @@
     <a href="{{ page.relativity }}/contact" class="nav-link">Contact Us</a>
 </div>
 <div class="title-bar">
-    <div class="title-bar-content">
+    <div class="title-bar-content gold-text">
         {%- if page.title -%}
             <h1 class="page-heading">{{ page.title }}</h1>
-            <h2 class="page-heading">{{ page.subtitle }}</h2>
+            <h2>{{ page.subtitle }}</h2>
             {%- if page.relativity == "." -%}
-                <a href="about">Learn More</a>
+                <h3><a href="about">Learn More</a></h3>
             {%- endif -%}
-            <br>
         {%- endif -%}
     </div>
 </div>
