@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Bros Who Bake"
+date:   2016-10-11 00:00:00 +1100
+image: https://i.imgur.com/WtXkMDc.jpg
+body: "We are proud to announce having raised over $400 from last week's 'Bros Who Bake' sales at UNSW and USyd. Everything raised has been donated to the Gift of Life Foundation, a bone marrow registry aiding the fight against leukemia. Shout out to AUJS UNSW and JUNI for helping to make it such a success, and thank you to all who donated/bought baked goods."
+---
