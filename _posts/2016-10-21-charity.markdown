@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "AEPi Sydney Raises Over $500 in Donations"
+date:   2016-10-21 00:00:00 +1100
+image: https://i.imgur.com/eSmThWF.jpg
+body: "After two successful on-campus sukkah stands (shout out to JUNI, AUJS UNSW and AUJS at the University of Sydney) and a charity poker night, we've smashed our $500 semester goal for donation to the Gift of Life Foundation. Thank you to everyone who came by, and keep an eye out for more AEPi events to come."
+---
