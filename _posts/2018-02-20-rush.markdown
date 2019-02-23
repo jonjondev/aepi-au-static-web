@@ -1,0 +1,11 @@
+---
+layout: default
+title: "RUSH 2018 is Here!"
+date: 2018-02-20 00:00:00 +1100
+image: https://i.imgur.com/KB98ViV.png
+body: "Ready for AEPi Sydney’s 2018 Rush? Here’s a handy graphic to let you know what’s going on with AEPi over the next few weeks!
+<br /><br />
+Come join us for a huge lineup of events like Falafel & Poker Night, Soccer & Beach Pong, AEPres for O’Week, Shabbat at The House, Pizza & Games Night and Schnitzel & Beer at The House.
+<br /><br />
+View all the events here: https://www.facebook.com/pg/aepisydney/events"
+---

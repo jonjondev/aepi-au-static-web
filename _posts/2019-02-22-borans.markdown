@@ -1,7 +1,0 @@
----
-layout: default
-title:  Andy Borans to Take on New Position Within AEPi
-date:   2018-02-08 00:00:00 +1100
-image: https://i.ytimg.com/vi/d4QgeAUjELo/maxresdefault.jpg
-body: "In a move years in the planning, Andrew S. Borans, longtime executive director of Alpha Epsilon Pi Fraternity (AEPi), the world’s only Jewish college fraternity, will begin working as the full-time chief executive officer of the Alpha Epsilon Pi Foundation (AEPi Foundation) in June. James Fleischer, currently the AEPi assistant executive director, will then become the fraternity’s chief executive officer. <br /><br /> The long-planned executive transition – which will go into effect June 1, 2018 – comes on the heels of very successful years for both AEPi and the Foundation."
----
