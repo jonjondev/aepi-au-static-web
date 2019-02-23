@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: whitesmoke;
     margin: 0 auto;
 }
 
@@ -87,7 +87,7 @@ a:hover {
 
 .social-link {
     padding: 10px;
-    background-color: white;
+    text-decoration: none;
 }
 
 .email-link {
