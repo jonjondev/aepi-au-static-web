@@ -14,12 +14,19 @@
 </div>
 <div class="title-bar">
     <div class="title-bar-content gold-text">
-        {%- if page.title -%}
-            <h1 class="page-heading">{{ page.title }}</h1>
-            <h2>{{ page.subtitle }}</h2>
-            {%- if page.relativity == "." -%}
-                <h2><a href="about">Learn More</a></h2>
+        <div class="title-bar-text">
+            {%- if page.title -%}
+                <h1 class="page-heading">{{ page.title }}</h1>
+                <h2>{{ page.subtitle }}</h2>
+                {%- if page.relativity == "." -%}
+                    <h2><a href="about">Learn More</a></h2>
+                {%- endif -%}
             {%- endif -%}
+        </div>
+        {%- if page.relativity == "." -%}
+            <div class="title-bar-image">
+                <img class="big-logo" src="{{ page.relativity }}/res/logo.png">
+            </div>
         {%- endif -%}
     </div>
 </div>

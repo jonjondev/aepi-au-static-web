@@ -8,7 +8,7 @@ relativity: ..
 
 <h1>What is Alpha Epsilon Pi?</h1>
 <p>Alpha Epsilon Pi is a Jewish fraternity based mostly in the United States and Canada, with Chapters in Australia, Israel, France, the UK and Austria. AEPi was founded on the ideals of brotherhood and giving back to the community at New York University in 1913 by Charles C. Moskowitz and ten of his Jewish friends. It is now the 7th largest fraternity in the world with more than 186 active Chapters, and the only fraternity to ever successfully become international.</p>
-<h3><a href="https://www.aepi.org">More About AEPi International</a></h3>
+<h5><a href="https://www.aepi.org" class="button-link">Learn More About The Organisation</a></h5>
 
 <br>
 
