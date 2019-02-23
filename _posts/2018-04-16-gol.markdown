@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Delta Class Register for Donorship"
+date: 2018-04-16 00:00:00 +1100
+image: https://i.imgur.com/JJLRVoD.jpg
+body: "Really proud to have been part of this amazing initiative with Gift of Life Australia.
+Registering as a bone marrow donor is a potentially life-saving decision that could aid those suffering from conditions like leukaemia and aplastic anaemia, and all it takes to register is just a saliva sample!
+<br /><br />
+They will be running a testing session at the Yom Ha'atzmaut Concert and Carnival 2018 on the 19th of April so swing by their testing session and potentially save a life!"
+---

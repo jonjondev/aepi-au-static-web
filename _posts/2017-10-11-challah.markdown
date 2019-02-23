@@ -1,0 +1,8 @@
+---
+layout: default
+title: "AUJS & AEPi Bake Challah for Hunger"
+date: 2017-10-11 00:00:00 +1100
+image: https://i.imgur.com/OsjA4ka.jpg
+body: "Proud to have hosted this incredible event together with AUJS UTS, AUJS USyd and Challah for Hunger Sydney in our very own House! Thanks again to our more than 40 volunteers who showed up to knead, shape, wrap and bake 300 challahs for sale towards Jewish House.
+"
+---

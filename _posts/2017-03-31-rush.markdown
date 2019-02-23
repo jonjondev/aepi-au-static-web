@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Autumn Rush Done"
+date:   2017-02-22 00:00:00 +1100
+image: https://i.imgur.com/3vEULUq.jpg
+body: "With Rush now over and March coming to a close, AEPi Sydney can take a moment to reflect on an incredible month with 300+ visitors coming to our new House. We held a number of successful events including poker, boardgames and even a few Shabbat dinners, and have proudly capped off our start of semester with the induction of over a dozen new members!"
+---

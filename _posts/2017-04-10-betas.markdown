@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Welcome Beta Class!"
+date:   2017-04-10 00:00:00 +1100
+image: https://i.imgur.com/QpB2qmv.jpg
+body: "AEPi Sydney was proud to welcome 15 new members at our House yesterday after an incredible charity effort. Thank you international brothers Adam Tarshish and Michael Bovshow for helping out. Fresh out of four weeks of team-building and leadership exercises, we present the Beta Class!"
+---

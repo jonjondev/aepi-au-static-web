@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Brothers & Pledges Register as Donors"
+date:   2017-04-10 00:00:00 +1100
+image: https://i.imgur.com/UUb8AMH.jpg
+body: "AEPi Sydney decided to give life with Gift of Life Australia, registering to ensure that their bone marrow type is on file to save a life one day. It takes only 15 minutes, a teaspoon of blood, and getting in contact has never been easier!"
+---

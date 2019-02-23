@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "Whiskey Business"
+date:   2017-05-30 00:00:00 +1100
+image: https://i.imgur.com/yP5E0C5.jpg
+body: "Thanks to everyone who came along for Whiskey Business! We are proud to announce we have raised well over $500 for the Simon Wiesenthal Centre, which will go straight into fighting anti-Semitism and bigotry worldwide.
+<br /><br />
+A special thanks to our sponsors Amaze in Taste and the Kirsh family for contributing to an incredible evening. Stay tuned for more events next semester."
+---
