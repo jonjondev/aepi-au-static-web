@@ -1,3 +1,60 @@
 body {
-    background-color: red !important;
+    background-color: #27475c;
+    margin: 0 auto;
+    color: white;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #ffbd59;
+}
+
+a {
+    color: #ffbd59;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.9;
+}
+
+
+.navbar {
+    background-color: #1f3849;
+    color: #ffbd59;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    padding-right: 30px
+}
+
+.nav-link {
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content {
+    padding-left: 10%;
+    padding-right: 10%;
 }
