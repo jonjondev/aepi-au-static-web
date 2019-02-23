@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+subtitle: Get the latest updates from the ΩZA Colony
 permalink: /blog/
 relativity: ..
 ---

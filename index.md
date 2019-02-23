@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 relativity: .
+title: AEPi Sydney Metro
+subtitle: Welcome to the official website of the ΩZA Colony of Alpha Epsilon Pi, the international Jewish fraternity.
 ---
