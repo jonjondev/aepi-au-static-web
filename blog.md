@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+relativity: ..
 ---
 
 {%- if site.posts.size > 0 -%}
