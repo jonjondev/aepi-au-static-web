@@ -1,0 +1,7 @@
+---
+layout: default
+title: "Welcome Delta Class!"
+date: 2018-05-10 00:00:00 +1100
+image: https://i.imgur.com/efQFS21.jpg
+body: "We are proud to welcome in our Delta Class of ten new brothers as of their initiation on Saturday, which was attended by AEPi International Executive Director, Andy Borans."
+---

@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Whiskey Business 2018"
+date: 2018-10-04 00:00:00 +1100
+image: https://i.imgur.com/pMQGyQb.jpg
+body: "Having run our second, annual whiskey tasting to raise money for the Israel Children's Cancer Foundation, we would like to thank to all who came and took part in this amazing event!
+<br /><br />
+Check out the pictures here: https://www.facebook.com/pg/aepisydney/photos/?tab=album&album_id=1924890957589359"
+---

@@ -1,0 +1,9 @@
+---
+layout: default
+title: "The Great OZA Roadtrip"
+date: 2018-07-04 00:00:00 +1100
+image: https://i.imgur.com/RdcjOFN.jpg
+body: "Having just returned from the temperate weather & serenity of Hyams Beach this Monday, our AEPi Sydney Chapter Roadtrip was a masterclass in 'Turning Winter into Summer'! Here's to many more trips just like it, and for those of you who couldn't be there this time, we hope you can join us for the next one!
+<br /><br />
+Check out the pictures here: https://www.facebook.com/aepisydney/posts/1788813754530414"
+---

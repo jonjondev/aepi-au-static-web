@@ -1,0 +1,7 @@
+---
+layout: default
+title: "Welcome Epsilons!"
+date: 2018-10-20 00:00:00 +1100
+image: https://i.imgur.com/Eb7hvJq.jpg
+body: "Last night we were proud to welcome our new Epsilon class to the brotherhood. We congratulate them on completing their pledge program!"
+---
