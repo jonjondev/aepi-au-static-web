@@ -5,7 +5,7 @@
 layout: default
 relativity: .
 title: AEPi Sydney Metro
-subtitle: Welcome to the official website of the ΩZA Colony of Alpha Epsilon Pi, the international Jewish fraternity.
+subtitle: Welcome to the official website of the ΩZA Chapter of Alpha Epsilon Pi, the international Jewish fraternity.
 ---
 <div class="home-container">
     <div class="home-posts">
