@@ -4,6 +4,7 @@ title: Contact Us
 subtitle: We're looking forward to you getting in touch with us
 permalink: /contact/
 relativity: ..
+action: "- Contact"
 ---
 
 <h1>

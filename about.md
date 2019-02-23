@@ -4,6 +4,7 @@ title: All About AEPi
 subtitle: A new experience for the Sydney Jewish community
 permalink: /about/
 relativity: ..
+action: "- About"
 ---
 
 <h1>What is Alpha Epsilon Pi?</h1>
