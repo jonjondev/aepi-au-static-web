@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "You're Invited to AEPi Sydney's Chartering!"
-date: 2018-02-20 00:00:00 +1100
+date: 2018-05-01 00:00:00 +1100
 image: https://i.imgur.com/BT6EQFh.png
 body: "The Alpha Epsilon Pi Fraternity is hosting our Chartering Ceremony and requests the honour of your presence on Sunday, the 6th of May at Kensington Park Community Centre.
 <br /><br />
