@@ -7,12 +7,26 @@ relativity: ..
 action: "- Contact"
 ---
 
-<h1>
-    <a href="mailto:info@aepi.org.au" class="social-link email-link"><i class="fas fa-envelope-square"></i> info@aepi.org.au</a>
-</h1>
-<h1>
-    <a href="https://www.facebook.com/aepisydney" class="social-link facebook-link" target="_blank"><i class="fab fa-facebook-square" ></i> aepisydney</a>
-</h1>
-<h1>
-    <a href="https://www.instagram.com/aepisydney" class="social-link instagram-link" target="_blank"><i class="fab fa-instagram"></i> aepisydney</a>
-</h1>
+<div class="contact-links">
+    <h1 class="contact-link email-link">
+        <i class="fas fa-envelope-square contact-icon"></i>
+        <br>
+        Email Us
+        <br>
+        <a href="mailto:info@aepi.org.au" class="social-link email-link">info@aepi.org.au</a>
+    </h1>
+    <h1 class="contact-link facebook-link">
+        <i class="fab fa-facebook-square contact-icon"></i>
+        <br>
+        Like Us
+        <br>
+        <a href="https://www.facebook.com/aepisydney" class="social-link facebook-link">aepisydney</a>
+    </h1>
+    <h1 class="contact-link instagram-link">
+        <i class="fab fa-instagram contact-icon"></i>
+        <br>
+        Follow Us
+        <br>
+        <a href="https://www.instagram.com/aepisydney" class="social-link instagram-link">@aepisydney</a>
+    </h1>
+</div>

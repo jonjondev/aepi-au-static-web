@@ -183,3 +183,20 @@ a:hover {
 .home-social iframe {
     padding-left: 30px;
 }
+
+
+.contact-links {
+    margin-top: 30px;
+    display: flex;
+    text-align: center;
+}
+
+
+.contact-link {
+    flex: 1 0 30%;
+}
+
+
+.contact-icon {
+    font-size: 300%;
+}
