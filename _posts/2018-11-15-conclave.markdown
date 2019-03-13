@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Oxford Conclave 2018"
+date: 2018-11-15 00:00:00 +1100
+image: https://i.imgur.com/SE8POCp.jpg
+body: "Late last year, AEPi Sydney brothers Aran Pando and Colby Wigoder had the opportunity to attend the annual European conclave held by Alpha Epsilon Pi at Oxford University in the UK.
+<br /><br />
+The event brought together over 150 brothers world-wide in order to develop their leadership skills and create life-lasting, global friendships.
+<br /><br />
+\"I'm grateful to have had the opportunity to travel aboard, meet brilliant people and make connections for life. I am proud to be a brother of AEPi.\" - Aran Pando
+<br /><br />
+\"It was amazing getting to see the international opportunities of the fraternity while travelling the UK with new mates from around the world.\" - Colby Wigoder"
+---
