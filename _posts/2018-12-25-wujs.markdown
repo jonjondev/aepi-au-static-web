@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Sydney Brother Attends WUJS Congress 2018"
+date: 2018-12-25 00:00:00 +1100
+image: https://i.imgur.com/M0HvtjU.jpg
+body: "Last December Sydney brother Joshua Spicer went to the Jewish Students Congress hosted by the World Union of Jewish Students - WUJS, joining the Alpha Epsilon Pi Fraternity delegation.
+<br /><br />
+The congress emphasised the importance of having a stronger dialogue between the diaspora and the State of Israel, serving as a platform to start initiatives to strengthen that dialogue. The AEPi delegation included brothers from all over the world including Adam Zinkin (UK), Fabio Schapiro (Brazil) and our very own Josh Spicer (Australia) as well as the executive director of AEPi, Andy Borans.
+<br /><br />
+\"The opportunity to meet likeminded student leaders from all around the world while broadening the relationship of our fraternity with the many organisations surrounding WUJS was a real highlight for me.\" - Josh Spicer"
+---
