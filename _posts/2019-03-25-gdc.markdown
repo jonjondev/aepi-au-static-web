@@ -1,0 +1,13 @@
+---
+layout: default
+title: "AEPi Brothers Attend GDC in San Francisco"
+date: 2019-03-26 00:00:00 +1100
+image: https://i.imgur.com/mNl4RjY.jpg
+body: "Last week, Sydney brother Jonathan Moallem went to GDC 2019, the global games developer conference, to present his critique on narrative design in video games.
+<br /><br />
+The conference for industry professionals sported presentations on new technologies, summits and roundtables on advocacy, networking and collaboration opportunities, and much more.
+<br /><br />
+Attending a roundtable session titled \"Discover Your Chutzpah\", he met a number of AEPi brothers from across the US (including AEPi Chico State and AEPi Chicago Metro), all engaged in the discussion around representation in the industry, Jewish life in the workplace, and positive social action.
+<br /><br />
+\"The conference was incredible, and truly a valuable experience for me going forward in my career. Meeting the AEPi brothers there was an absolute treat as well, as not only did we share letters between us but also a passion for crafting digital experiences.\" - Jonathan Moallem"
+---
