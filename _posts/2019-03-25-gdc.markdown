@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AEPi Brothers Attend GDC in San Francisco"
-date: 2019-03-26 00:00:00 +1100
+date: 2019-03-25 00:00:00 +1100
 image: https://i.imgur.com/mNl4RjY.jpg
 body: "Last week, Sydney brother Jonathan Moallem went to GDC 2019, the global games developer conference, to present his critique on narrative design in video games.
 <br /><br />
