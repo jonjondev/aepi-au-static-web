@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Autumn Rush '19 Done!"
+date: 2019-03-07 00:00:00 +1100
+image: https://i.imgur.com/eL719wI.jpg
+body: "With our autumn rush now over, we would like to say a huge thank you to all of you who joined us in these last two epic weeks of events!
+<br /><br />
+And for those of you that didn't get to shark us at poker, chow down on wings with us, or join for a hummus-filled shabbat dinner, we'll be back at the start of next sem with even more great events!"
+---
