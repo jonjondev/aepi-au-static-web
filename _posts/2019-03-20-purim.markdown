@@ -1,0 +1,7 @@
+---
+layout: default
+title: "AUJS & AEPi Bake '19"
+date: 2019-03-20 00:00:00 +1100
+image: https://i.imgur.com/EBB1uWq.jpg
+body: "We are very proud to have worked alongside AUJS NSW to bring to life this amazing event for students, hosted by Shalom College. Thank you to all who volunteered to help bake these delicious, jam-filled triangles, and we hope everyone had a wonderful Purim!"
+---
