@@ -1,0 +1,11 @@
+---
+layout: default
+title: "From Sydney With Brotherly Love"
+date: 2019-03-04 00:00:00 +1100
+image: https://i.imgur.com/5yHGdzw.jpg
+body: "To our CEO, brother, and friend, James Fleischer.
+<br /><br />
+We brothers of the Sydney Metro Chapter send you our prayers, our support, and our confidence that you can beat this thing. We believe in you, Jim, and the entire brotherhood is in your corner because we all know your strength.
+<br /><br />
+#MyBrothersKeeper #TheSunNeverSets"
+---
