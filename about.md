@@ -34,7 +34,7 @@ action: "- About"
     <li>A five-bedroom, three-bathroom occupancy for AEPi members</li>
     <li>Jewish chaplaincy services, including tefillin and books to lend</li>
 </ul>
-<iframe frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=aepi%20house%20sydney&amp;key=AIzaSyB1lmn9A4wu8hQw4wi-HsMfPpuRo6__OWI" style="border:0" width="50%"></iframe>
+<iframe class="map-frame" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=aepi%20house%20sydney&amp;key=AIzaSyB1lmn9A4wu8hQw4wi-HsMfPpuRo6__OWI" style="border:0"></iframe>
 
 <h1>Some Facts About Us</h1>
 <ul>
