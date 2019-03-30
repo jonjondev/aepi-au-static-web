@@ -30,6 +30,6 @@ subtitle: Welcome to the official website of the ΩZA Chapter of Alpha Epsilon P
         </h5>
     </div>
     <div class="home-social">
-        <iframe allowtransparency="true" frameborder="1" height="900" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Faepisydney%2F&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=303155660018639" style="border:none;overflow:hidden" width="340"></iframe>
+        <iframe allowtransparency="true" frameborder="1" height="500" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Faepisydney%2F&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=303155660018639" style="border:none;overflow:hidden" width="340"></iframe>
     </div>
 </div>
