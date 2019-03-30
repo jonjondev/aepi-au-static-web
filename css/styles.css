@@ -16,14 +16,22 @@ a:hover {
 }
 
 .navbar {
+    background-color: #27475c;
     position: fixed;
     width: 100%;
-    background-color: #27475c;
-    color: #ffbd59;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10%;
     padding-right: 10%;
+
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.nav-links {
+    background-color: #27475c;
+    color: #ffbd59;
 
     display: flex;
     justify-content: flex-start;
@@ -98,6 +106,13 @@ a:hover {
     padding: 10px;
     color: whitesmoke;
     text-decoration: none;
+}
+
+
+
+
+.map-frame {
+    width: 50%;
 }
 
 
@@ -199,4 +214,79 @@ a:hover {
 
 .contact-icon {
     font-size: 300%;
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /* Home Page Styles */
+    .home-container {
+        flex-direction: column;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    /* Global Styles */
+    .navbar {
+        padding-left: 0;
+        padding-right: 0;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .nav-links {
+        padding-left: 5px;
+        padding-right: 5px;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+    .nav-link {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    .logo {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .page-heading {
+        font-size: 40px;
+    }
+    .content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    h1 {
+        font-size: 25px;
+    }
+
+    /* Home Page Styles */
+    .home-container {
+        flex-direction: column;
+    }
+    .title-bar-image {
+        display: none;
+    }
+    .home-social iframe {
+        margin-left: -30px;
+    }
+
+    /* About Page Styles */
+    .map-frame {
+        width: 100%;
+    }
+
+    /* Blog Page Styles */
+    .blog-card {
+        width: 100%;
+    }
+
+    /* Contact Page Styles */
+    .contact-links {
+        flex-direction: column;
+    }
 }
