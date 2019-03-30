@@ -20,13 +20,13 @@ action: "- Contact"
         <br>
         Like Us
         <br>
-        <a href="https://www.facebook.com/aepisydney" class="social-link facebook-link">aepisydney</a>
+        <a href="https://www.facebook.com/aepisydney" class="social-link facebook-link" target="_blank">aepisydney</a>
     </h1>
     <h1 class="contact-link instagram-link">
         <i class="fab fa-instagram contact-icon"></i>
         <br>
         Follow Us
         <br>
-        <a href="https://www.instagram.com/aepisydney" class="social-link instagram-link">@aepisydney</a>
+        <a href="https://www.instagram.com/aepisydney" class="social-link instagram-link" target="_blank">@aepisydney</a>
     </h1>
 </div>
