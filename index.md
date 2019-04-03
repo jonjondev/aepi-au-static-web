@@ -16,7 +16,9 @@ subtitle: Welcome to the official website of the ΩZA Chapter of Alpha Epsilon P
                     <h3>{{ post.date | date: date_format }}</h3>
                     <div class="blog-image" style="background-image: url({{ post.image }})"></div>
                     <div class="blog-text">
-                        <h1>{{ post.title }}</h1>
+                        <a href="{{ post.url }}" class="blog-title">
+                            <h1>{{ post.title }}</h1>
+                        </a>
                         <p>{{ post.body }}</p>
                     </div>
                 </div>
