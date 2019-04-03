@@ -16,9 +16,6 @@ action: "- Blog"
         <h1>{{ post.title }}</h1>
         <p>{{ post.body }}</p>
       </div>
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
     </div>
   {%- endfor -%}
 {%- endif -%}
