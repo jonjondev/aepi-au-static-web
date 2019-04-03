@@ -185,6 +185,11 @@ a:hover {
     font-family: Times;
 }
 
+.blog-title {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
 
 
 /* Home Page Styles */
