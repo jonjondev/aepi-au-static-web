@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "AEPi Sydney Raises Over $500 in Donations"
 date:   2016-10-21 00:00:00 +1100
 image: https://i.imgur.com/eSmThWF.jpg

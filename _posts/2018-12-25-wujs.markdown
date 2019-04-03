@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Sydney Brother Attends WUJS Congress 2018"
 date: 2018-12-25 00:00:00 +1100
 image: https://i.imgur.com/M0HvtjU.jpg

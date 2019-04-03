@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "AEPi International Convention 2017"
 date: 2017-08-23 00:00:00 +1100
 image: https://i.imgur.com/Tm0fjaF.jpg

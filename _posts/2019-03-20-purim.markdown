@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "AUJS & AEPi Bake '19"
 date: 2019-03-20 00:00:00 +1100
 image: https://i.imgur.com/EBB1uWq.jpg

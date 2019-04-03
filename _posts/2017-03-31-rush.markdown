@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Autumn Rush Done"
 date:   2017-02-22 00:00:00 +1100
 image: https://i.imgur.com/3vEULUq.jpg

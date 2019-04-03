@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Delta Class Register for Donorship"
 date: 2018-04-16 00:00:00 +1100
 image: https://i.imgur.com/JJLRVoD.jpg

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "AUJS & AEPi Bake Challah for Hunger"
 date: 2017-10-11 00:00:00 +1100
 image: https://i.imgur.com/OsjA4ka.jpg

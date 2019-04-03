@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Shabbat Across AEPi"
 date:   2016-11-10 00:00:00 +1100
 image: https://i.imgur.com/WGIIzS2.jpg

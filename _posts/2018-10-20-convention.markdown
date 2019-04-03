@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "105th International Convention"
 date: 2018-10-04 00:00:00 +1100
 image: https://i.imgur.com/bwWhYa9.jpg

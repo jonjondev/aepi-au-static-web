@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "AEPaintball"
 date:   2016-10-02 00:00:00 +1100
 image: https://i.imgur.com/thF17JW.jpg

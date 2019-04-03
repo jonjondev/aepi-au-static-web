@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Jewish-Australian Fraternity Opens its Doors"
 date:   2016-07-20 00:00:00 +1100
 image: https://i.imgur.com/dP5USxQ.png

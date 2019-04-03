@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "We Walk to Remember"
 date:   2017-04-28 00:00:00 +1100
 image: https://i.imgur.com/BYmldFk.jpg

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Wattamolla Leadership Retreat"
 date:   2016-11-28 00:00:00 +1100
 image: https://i.imgur.com/LdVDY1h.jpg

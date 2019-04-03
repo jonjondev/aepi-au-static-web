@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Autumn Rush '19 Done!"
 date: 2019-03-07 00:00:00 +1100
 image: https://i.imgur.com/eL719wI.jpg

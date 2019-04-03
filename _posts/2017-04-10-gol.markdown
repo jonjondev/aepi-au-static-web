@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Brothers & Pledges Register as Donors"
 date:   2017-04-10 00:00:00 +1100
 image: https://i.imgur.com/UUb8AMH.jpg

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Board Games & Pizza Set to Be a Classic"
 date:   2016-08-28 00:00:00 +1100
 image: https://i.imgur.com/WeR8hw7.jpg

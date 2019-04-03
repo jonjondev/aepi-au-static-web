@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "That's Omega Zeta Alpha Chapter to You!"
 date: 2018-05-20 00:00:00 +1100
 image: https://i.imgur.com/kmK1KFr.jpg

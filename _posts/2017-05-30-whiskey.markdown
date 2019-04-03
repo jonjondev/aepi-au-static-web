@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Whiskey Business"
 date:   2017-05-30 00:00:00 +1100
 image: https://i.imgur.com/yP5E0C5.jpg
