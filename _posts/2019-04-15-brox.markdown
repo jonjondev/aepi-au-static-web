@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Learning From Our Brothers With BroX"
+date: 2019-04-10 00:00:00 +1100
+image: https://i.imgur.com/RPVLPCq.jpg
+body: "Last week AEPi Sydney brothers came together to run BroX: The Brotherhood TedX Event.
+<br /><br />
+Each brother was made to prepare an eight minute presentation on a topic that was either an area of interest, an important skill they wanted to impart, or even just a fun discussion topic. The presentation topics were hugely diverse, including: \"How to Organise Your Life\", \"What Are Dreams?\" \"How to Buy Your First Property\", \"Enabling More Storytellers\", \"Success in Business or Academics?\", \"Getting to Know Someone Quickly\", and even \"How to Model a Wine Glass in 3D\"!
+<br /><br />
+\"With such an interesting and diverse range of skills our brothers have it was crucial to organise an event like this to share our learnings between brothers\" - Mitchell Shelton, AEPi Vice President & Computer Science Student
+<br /><br />
+\"After BroX I feel that little bit more woke\" - Josh Amoils, AEPi Pledge & Data Science and Decisions Student
+<br /><br />
+We were very pleased with the event and look forward to running it again in the near future."
+---
