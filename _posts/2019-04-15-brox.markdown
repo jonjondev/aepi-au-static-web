@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning From Our Brothers With BroX"
-date: 2019-04-10 00:00:00 +1100
+date: 2019-04-15 00:00:00 +1100
 image: https://i.imgur.com/RPVLPCq.jpg
 body: "Last week AEPi Sydney brothers came together to run BroX: The Brotherhood TedX Event.
 <br /><br />

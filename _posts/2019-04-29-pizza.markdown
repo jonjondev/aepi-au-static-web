@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The AUJS & AEPi Passover Pizza Party"
+date: 2019-04-29 00:00:00 +1100
+image: https://i.imgur.com/GNsCefu.jpg
+body: "Last week AEPi Sydney, AUJS UTS, AUJS UNSW, and AUJS USyd came together to put on a huge collaboration, running a Pesach pizza-making party. We were fortunate to be able to collaborate with so many campus organisations to put on this amazing event where guests made their own matzah pizzas and watched the Passover classic itself, Prince of Egypt!
+<br /><br />
+\"The vibe was incredible and we really didn’t expect so many people to show up but there they were. Having the event with AUJS was such a pleasure and the collaboration was awesome.\" - Jonathan Moallem, President of AEPi Sydney
+<br /><br />
+\"What a fantastic night! Thanks to all those who came and helped get through the miles of [kosher] cheese!\" - Janine Joseph, President of AUJS USyd
+<br /><br />
+The event went wonderfully and we are looking forward to making this happen again next year!"
+---
