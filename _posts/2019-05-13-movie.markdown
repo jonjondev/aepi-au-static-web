@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Bros Do Movie Night"
+date: 2019-05-13 00:00:00 +1100
+image: https://i.imgur.com/sSBTqgU.jpg
+body: "Movie night with the bros was a classic time and a half with all the 90s kids nostalgia going down. Pokemon Detective Pikachu was blast from our collective pasts and we're looking forward to more great hangouts like this!"
+---
