@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Welcome Zeta Class!"
+date: 2019-05-29 00:00:00 +1100
+image: https://i.imgur.com/Ynk92GJ.jpg
+body: "We were very proud to welcome in our brand new Zeta class to the chapter, hot off their initiation last Sunday. After a long, ten weeks of our pledge program, we're thrilled to now be able to call Josh Amoils, Jay Kaplan, Lev Roz, and Daniel Zakoshanski our brothers.
+<br /><br />
+Thank you to all the brothers that joined us to make it a very special celebration of brotherhood. From Founding Fathers to Epsilon Class, it was one for the books!"
+---
