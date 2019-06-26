@@ -1,0 +1,9 @@
+---
+layout: post
+title: "AEPi OZA Retreat 2019"
+date: 2019-06-26 00:00:00 +1100
+image: https://i.imgur.com/Up48QTP.jpg
+body: "At the end of a whirlwind semester, AEPi Sydney once again embarked upon their annual winter beach retreat at Manyana, down on the South Coast. It was a weekend filled with good eats, good mates, good vibes, good hangs, and good relaxing time - how good!
+<br /><br />
+And as always, for those of you who couldn't be there this time, we hope you can join us on the next episode!"
+---
