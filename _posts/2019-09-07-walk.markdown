@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Bros Walk for Friendship Circle"
+date: 2019-09-04 00:00:00 +1100
+image: https://i.imgur.com/E3OHJD1.jpg
+body: "Last weekend our brothers Aran Pando and Colby Wigoder took part in the 2019 Friendship Walk to raise money for Sydney Friendship Circle, an organisation that helps community members with special needs get the care and love they deserve.
+<br /><br />
+It's never too late to donate: https://bit.ly/2lsWwdY"
+---
