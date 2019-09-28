@@ -1,0 +1,15 @@
+---
+layout: post
+title: "A Message on RUOKDay"
+date: 2019-09-12 00:00:00 +1100
+image: https://i.imgur.com/GYSarXf.jpg
+body: "In light of R U OK Day, we’d like to send a message of support to all of those around us. That there is always a place to talk and express yourselves.
+<br /><br />
+As a brotherhood, we pride ourselves on being an open and considerate space for young men, who are one of the most vulnerable to suicidal thoughts and actions, to access a supportive community in which they have a support system during difficult times.
+<br /><br />
+“But my soul I could not see.
+<br />
+I sought my God, But my God eluded me.
+<br />
+I sought my brother, And I found all three.”"
+---
