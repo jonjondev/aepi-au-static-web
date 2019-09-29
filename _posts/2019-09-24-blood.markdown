@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Blood Brothers"
+date: 2019-09-24 00:00:00 +1100
+image: https://i.imgur.com/0ojXFHY.jpg
+body: "Yesterday four brothers of AEPi donated whole blood and plasma to the Australian Red Cross. Big naches to brothers Aran Pando, Benji Sky, Jonathan Moallem, and Samuel Marks for donating to such a good cause.
+<br /><br />
+Blood and plasma donations can be used to save lives with applications ranging from research and development of new treatments, to saving lives in treating cancers, autoimmune diseases, or even blood transfusions.
+<br /><br />
+Donating is easy, straightforward, rewarding, and for an important cause. You can go book your appointment today at www.donateblood.com.au."
+---
