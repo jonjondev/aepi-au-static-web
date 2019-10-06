@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring Rush '19 Done!"
-date: 2019-09-24 00:00:00 +1100
+date: 2019-10-04 00:00:00 +1100
 image: https://i.imgur.com/zZiLqTw.jpg
 body: "With Rush now over, we thought it once again appropriate to share some of our favourite snaps from last month. The brothers of AEPi Sydney would like to say a huge thank you to all of you who joined us and we're looking forward to seeing you again soon for Autumn Rush '20!"
 ---
