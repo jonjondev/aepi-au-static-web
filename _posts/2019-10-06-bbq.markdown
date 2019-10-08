@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Bros, Basketball, and BBQ"
+date: 2019-10-06 00:00:00 +1100
+image: https://i.imgur.com/VzhlPvz.jpg
+body: "Nothing like winding down after a hectic Rush over snags and basketball. A great first brotherhood event for new members, Zac Albert and Daniel Admon, as the boys have yet another good ol' sausage party at UNSW."
+---
